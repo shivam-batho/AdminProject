@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'assets/vendors/mdi/css/materialdesignicons.min.css';
+@import 'assets/vendors/css/vendor.bundle.base.css';
+@import 'assets/vendors/jvectormap/jquery-jvectormap.css';
+@import 'assets/vendors/flag-icon-css/css/flag-icon.min.css';
+@import 'assets/vendors/owl-carousel-2/owl.carousel.min.css';
+@import 'assets/vendors/owl-carousel-2/owl.theme.default.min.css';
+@import 'assets/css/style.css';
+
+.card{
+    background-color: #191c24 !important;
+}
+.container-fluid{
+    padding-left:0 !important;
+    padding-right:0!important;
+}
+.form-group label {
+    color: #FFFFFF !important;
+}
+.body{
+    color: #FFFFFF !important;
+}
